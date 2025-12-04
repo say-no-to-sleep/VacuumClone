@@ -26,4 +26,4 @@ No Subscriptions: And you don't have to pay
 
 Real Reason: That guy's scamming.
 
-Reference Reddit Post (until mods remove it): (Post)[https://www.reddit.com/r/MacOS/comments/1pdlcg8/ever_wish_you_had_a_quit_all_apps_button_on_macos/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+Reference Reddit Post (until mods remove it): [Post](https://www.reddit.com/r/MacOS/comments/1pdlcg8/ever_wish_you_had_a_quit_all_apps_button_on_macos/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
