@@ -11,7 +11,8 @@ As you may have noticed, the icon is absolutely dogshit. The reason behind this 
 Q&A:
 
 Q: Have you-
-A: No, I have not studied colour theory
+
+A: No, I have not studied colour theory, or art in general. How did you tell?
 
 ---
 
