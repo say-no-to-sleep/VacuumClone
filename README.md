@@ -4,7 +4,14 @@
 
 Not really... but some guy charged 4 dollars for it and got downvoted into oblivion on Reddit.
 
-And no, I don't know how to make icons look good. Feel free to suggest though.
+---
+
+As you may have noticed, the icon is absolutely dogshit. The reason behind this is that I don't know how to design icons, and it was put together in 30 minutes in figma and icon composer.
+
+Q&A:
+
+Q: Have you-
+A: No, I have not studied colour theory
 
 ---
 
