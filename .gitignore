@@ -1,0 +1,15 @@
+# Xcode
+.DS_Store
+*/build/
+*.derivedData
+*.dwarfs
+*.dSYM
+*.xcuserstate
+*.usersupportedgl
+*.os_build
+*.spritedist
+*.app
+*.archive
+*.ipa
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/

@@ -1,0 +1,152 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode-specializations" : [
+            {
+              "value" : "overlay"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "overlay"
+            }
+          ],
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:0.40374,0.64068,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : "automatic"
+            }
+          ],
+          "image-name" : "Vector 3.svg",
+          "name" : "Vector 3",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              21.187680008847565,
+              276.6351849272163
+            ]
+          }
+        },
+        {
+          "blend-mode-specializations" : [
+            {
+              "value" : "overlay"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "overlay"
+            }
+          ],
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:0.33833,0.49745,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : "automatic"
+            }
+          ],
+          "image-name" : "Vector 2.svg",
+          "name" : "Vector 2",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              7.198513623235385,
+              229.07664599317985
+            ]
+          }
+        },
+        {
+          "blend-mode-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : "normal"
+            }
+          ],
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:0.26947,0.28137,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : "automatic"
+            }
+          ],
+          "image-name" : "Vector 1.svg",
+          "name" : "Vector 1",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -4.088895797912528,
+              47.68397900128309
+            ]
+          }
+        },
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:0.32041,0.70359,0.83643,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "display-p3:1.00000,0.80000,0.72941,1.00000",
+                  "display-p3:0.14576,0.04699,0.32258,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.27009050696894893,
+                    "y" : 0
+                  },
+                  "stop" : {
+                    "x" : 0.6595115678142128,
+                    "y" : 0.7620225915170517
+                  }
+                }
+              }
+            }
+          ],
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Star 1.svg",
+          "name" : "Star 1",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              241.4919551895366,
+              -191.78962474871662
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
